@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-react/static/css/main.85aa5285.css",
+    "main.js": "/Ecommerce-react/static/js/main.e17187c6.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Ecommerce-react/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Ecommerce-react/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Ecommerce-react/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Ecommerce-react/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Ecommerce-react/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/p2.jpg": "/Ecommerce-react/static/media/p2.6f0bf583f62e2ab4f91f.jpg",
+    "static/media/p1.jpg": "/Ecommerce-react/static/media/p1.74d0a9acd642f2f5a796.jpg",
+    "static/media/p3.jpg": "/Ecommerce-react/static/media/p3.bd69b2b3bcd54fb84a06.jpg",
+    "index.html": "/Ecommerce-react/index.html",
+    "main.85aa5285.css.map": "/Ecommerce-react/static/css/main.85aa5285.css.map",
+    "main.e17187c6.js.map": "/Ecommerce-react/static/js/main.e17187c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85aa5285.css",
+    "static/js/main.e17187c6.js"
+  ]
+}
